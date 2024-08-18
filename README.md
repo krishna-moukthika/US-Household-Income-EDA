@@ -1,0 +1,1 @@
+This project focuses on analyzing US household income data using MySQL. The primary objective is to clean the dataset and explore various factors affecting household income across different states and types of places in the US. The project is divided into two main stages: data cleaning and exploratory data analysis (EDA).
